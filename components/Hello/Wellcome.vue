@@ -1,8 +1,9 @@
 <template>
   <div>
-    <HelloWellcome />
-    <Counter />
+    <h1>Hello word</h1>
   </div>
 </template>
 
 <script setup></script>
+
+<style lang="scss" scoped></style>
